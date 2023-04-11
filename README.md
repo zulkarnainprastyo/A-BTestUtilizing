@@ -1,5 +1,7 @@
 **Pacmann AI**
 
+# A/B testing for estimating causal dynamic effects using reinforcement learning
+
 [@github:zulkarnainprastyo](https://github.com/zulkarnainprastyo), [@medium:Zulkarnain Prastyo](https://medium.com/@zulkarnain.prastyoumb23093)
 
 ## Table of Contents
