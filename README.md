@@ -45,10 +45,12 @@ A/B testing, or online experimentation, is a standard business strategy for comp
 
  2. Setting Up Problem
     * Describe according to the stages described in the previous stage
+
 I showing in medium article
 
  3. Designing Experiments
     * Describe according to the stages described in the previous stage
+
 I showing in medium article
 
  4. Analyzing and Interpreting the Data
@@ -57,6 +59,7 @@ I showing in medium article
         * perform SRM test with chi-square test
     * Result of the hypothesis testing
     * Confidence interval for estimate the difference between treatment and control
+
 I showing in medium article
 
  5. Conclusion and Recommdentation
@@ -64,11 +67,13 @@ I showing in medium article
         * The conclusion from the previous analysis
         * Recommendations for the business
         * Recommendation for the next experiment
+
 I showing in medium article
 
  6. References
     * It contains references that you use.
     * Remember, plagiarism is highly avoided
+
 [1] Johari, R., Pekelis, L., & Walsh, D. J. (2015). Always valid inference: Bringing sequential analysis to A/B testing. arXiv preprint arXiv:1512.04922.
 
 [2] Kharitonov, E., Vorobev, A., Macdonald, C., Serdyukov, P., & Ounis, I. (2015, August). Sequential testing for early stopping of online experiments. In Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 473–482).
