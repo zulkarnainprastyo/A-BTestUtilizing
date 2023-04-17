@@ -45,13 +45,11 @@ A/B testing, or online experimentation, is a standard business strategy for comp
 
  2. Setting Up Problem
     * Describe according to the stages described in the previous stage
-
-I showing in medium article
+    I showing in medium article
 
  3. Designing Experiments
     * Describe according to the stages described in the previous stage
-
-I showing in medium article
+    I showing in medium article
 
  4. Analyzing and Interpreting the Data
     * Ensure the trushworthiness
@@ -59,16 +57,14 @@ I showing in medium article
         * perform SRM test with chi-square test
     * Result of the hypothesis testing
     * Confidence interval for estimate the difference between treatment and control
-
-I showing in medium article
+    I showing in medium article
 
  5. Conclusion and Recommdentation
     * Make a summary with
         * The conclusion from the previous analysis
         * Recommendations for the business
         * Recommendation for the next experiment
-
-I showing in medium article
+    I showing in medium article
 
  6. References
     * It contains references that you use.
