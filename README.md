@@ -37,23 +37,22 @@ Through this project, you will be asked to
 3. Presentation
 
 # Format Easy Report Project
- 1. Introduction and Background
+## 1. Introduction and Background
     * Explain the case and the problem that you want to solve
 A/B testing, or online experimentation, is a standard business strategy for comparing new products to old products in the pharmaceutical, technology, and traditional industries. A major challenge arises in online experiments with two-sided marketplace platforms (e.g. Lyft, Uber, Curb) where only one unit receives a series of treatments over time. In these experiments, treatment at a given time affects current outcomes as well as future outcomes. This paper aims to introduce a reinforcement learning framework for A/B testing in these experiments while characterizing long-term treatment effects. The testing procedure I propose allows for sequential monitoring and online updates. It is universally applicable to various process designs in different industries. In addition, I systematically investigate the theoretical properties (e.g., size and power) of my testing procedure. Finally, I apply my framework to simulated data and a real data example obtained from a technology company to illustrate its advantages over current practice.
 
 
-
- 2. Setting Up Problem
+## 2. Setting Up Problem
     * Describe according to the stages described in the previous stage
     
     I showing in medium article
 
- 3. Designing Experiments
+ ## 3. Designing Experiments
     * Describe according to the stages described in the previous stage
     
     I showing in medium article
 
- 4. Analyzing and Interpreting the Data
+ ## 4. Analyzing and Interpreting the Data
     * Ensure the trushworthiness
         * check the data quality (missing value, duplicate data, distribution of data)
         * perform SRM test with chi-square test
@@ -62,7 +61,7 @@ A/B testing, or online experimentation, is a standard business strategy for comp
     
     I showing in medium article
 
- 5. Conclusion and Recommdentation
+ ## 5. Conclusion and Recommdentation
     * Make a summary with
         * The conclusion from the previous analysis
         * Recommendations for the business
@@ -73,7 +72,8 @@ A/B testing, or online experimentation, is a standard business strategy for comp
  6. References
     * It contains references that you use.
     * Remember, plagiarism is highly avoided
-
+    
+## References
 [1] Johari, R., Pekelis, L., & Walsh, D. J. (2015). Always valid inference: Bringing sequential analysis to A/B testing. arXiv preprint arXiv:1512.04922.
 
 [2] Kharitonov, E., Vorobev, A., Macdonald, C., Serdyukov, P., & Ounis, I. (2015, August). Sequential testing for early stopping of online experiments. In Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 473–482).
